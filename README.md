@@ -5,8 +5,7 @@ This repository is where I document my journey of learning, experimenting, and a
 ## Notebooks:
 1) ❤️‍🩹**Predicting Heart Failure** - Classic ML, Binary classification (2025)
    
-     Goal: Predict the likelihood of heart failure using clinical patient data.
-     Classic machine learning methods explored in SciKitLearn with explanations of Pros, Cons and common parameters.
+     This notebook aims to predict the likelihood of heart failure using clinical patient data. It explores classic machine learning algorithms implemented with Scikit-learn and provides explanations of their advantages, limitations, and key parameters. The final model, built with XGBoost, achieved an accuracy of 85% on the training set and 90% on the holdout set, indicating strong performance without signs of overfitting.
    
 
 ## Reports:
